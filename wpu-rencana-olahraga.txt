@@ -5,5 +5,8 @@ WPU RENCANA OLAHRAGA
  * jam 8 sampai 10
  *jam 1 sampai 4
 - basket
+ * lay up
+ * passing
 - futsal
 - jogging
+- muay thai
