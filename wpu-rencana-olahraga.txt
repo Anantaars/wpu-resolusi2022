@@ -2,7 +2,8 @@ WPU RENCANA OLAHRAGA
 
 - sepeda
 - badminton
-* jam 8 sampai 10
-*jam 1 sampai 4
+ * jam 8 sampai 10
+ *jam 1 sampai 4
+- basket
 - futsal
 - jogging
